@@ -9,7 +9,6 @@ AoR
 whenlaunch?=Show
 Show=NewSquare.dll
 End
-whenLaunch.WaitForParent
-whenNewSquare.dll=Click
+.WaitForParent
 Run=JNOSlaunch.exe
 when
