@@ -1,0 +1,15 @@
+# Files and Launchers
+when?=lauch = program.lain
+   LainArm=JacobDOMAIN
+AoR
+  A
+# Verified mods made by team
+# JNOSlaunch.exe
+# Code
+whenlaunch?=Show
+Show=NewSquare.dll
+End
+whenLaunch.WaitForParent
+whenNewSquare.dll=Click
+Run=JNOSlaunch.exe
+when
