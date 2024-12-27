@@ -11,4 +11,6 @@ Show=NewSquare.dll
 End
 .WaitForParent
 Run=JNOSlaunch.exe
-when
+
+Connect "BT" = "6YTRA"
+MakeDomain.ese
